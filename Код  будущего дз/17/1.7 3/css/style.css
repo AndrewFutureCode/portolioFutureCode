@@ -1,0 +1,21 @@
+section {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f5f5f5;
+}
+.about-me {
+    background-color: #e0f2f1;
+}
+.portfolio {
+    background-color: #f0e68c;
+}
+.services {
+    background-color: #ffb6c1;
+}
+h2{
+    color: blue;
+}
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}

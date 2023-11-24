@@ -1,0 +1,23 @@
+#header1 {
+    color: yellowgreen;
+    font-size: 24px;
+}
+
+#header2 {
+    color: goldenrod;
+    font-size: 18px;
+}
+
+.paragraph1 {
+    color: red;
+}
+.paragraph2 {
+    color: blue;
+}
+button {
+    background-color: aqua;
+    color: aliceblue;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}

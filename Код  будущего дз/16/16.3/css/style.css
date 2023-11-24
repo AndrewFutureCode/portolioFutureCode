@@ -1,0 +1,13 @@
+.menu-block {
+	background-color: aquamarine;
+	color: grey;
+	font-size: 18px;
+	padding: 20px;
+}
+
+#special-menu {
+	background-color: yellow;
+	color: grey;
+	font-size: 20px;
+	padding: 30 px;
+}

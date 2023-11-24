@@ -1,0 +1,23 @@
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+.footer-info h3 {
+    font-size: 1.5rem;
+}
+.footer-info p {
+    font-size: 1rem;
+}
+.social-icons {
+    font-size: 1.5rem;
+}
+.social-icons a {
+    text-decoration: silver;
+    color: #fff;
+}
+.social-icons img {
+    padding-left: 10px;
+    width :200; 
+    height: 150;
+}

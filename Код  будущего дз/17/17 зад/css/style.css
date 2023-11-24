@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.header {
+    background-color: black;
+    color: white;
+}
+.link {
+    color: white;
+    text-align: center;
+}
+th, td{
+
+    padding: 10px;
+
+    text-align: center;
+
+}
+
+.weekend {
+
+    color: red;
+
+}
+
+.today {
+
+    background-color: yellow;
+    
+
+}
+.top-row {
+    background-color: black;
+    color: white;
+
+}
+table {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+   margin: auto;
+}
+.main {
+    text-align: center;
+}
+.grey-row {
+    background-color: silver;
+}
+h1 {
+    text-align: center;
+}
+.header {
+    background-color: #262626;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+.footer-content {
+    margin: auto;
+    text-align: center;
+    background-color: #262626;
+    margin-top: 342px;
+    color: white;
+}
+.logo {
+    width: 150px;
+    height: 150px;
+}

@@ -1,0 +1,40 @@
+.header {
+    background-color: #262626;
+    color: #fff;
+    text-align: center;
+}
+.link {
+    color: #fff;
+}
+.footer-content {
+    text-align: center;
+    margin: auto;
+    background-color: #262626;
+    color: #fff;
+}
+img {
+    height: 30%;
+    width: 30%;
+}
+.gallery {
+    margin: auto;
+    background-color: bisque;
+}
+
+
+*{
+    margin: 0;
+}
+ul{
+    list-style-type: none;
+    margin-right: 40px;
+}
+.title{
+    font-size: 30px;
+    text-align: center;
+    background-color: burlywood;
+    
+    font-size: 20px;
+    text-align: center;
+    background-color: burlywood;
+}
